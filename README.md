@@ -1,2 +1,2 @@
-# Conversor-de-moeda-Challenge-ONE-Java-
+# Conversor-de-moeda-Challenge-ONE-Java
 Desafio ORACLE/ALURA
